@@ -267,7 +267,17 @@
 
 ### Safety & Privacy
 
-
+1. [2024/11/04] Attacking Vision-Language Computer Agents via Pop-ups[[paper](https://arxiv.org/abs/2411.02391)]
+2. [2024/10/23] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control[[paper](https://arxiv.org/abs/2410.17520)]
+3. [2024/10/22] Advweb: Controllable black-box attacks on vlm-powered web agents[[paper](https://arxiv.org/abs/2410.17401)]
+4. [2024/10/11] Refusal-Trained LLMs Are Easily Jailbroken As Browser Agents[[paper](https://arxiv.org/abs/2410.13886)]
+5. [2024/10/09] ST-WebAgentBench: A Benchmark for Evaluating Safety and Trustworthiness in Web Agents[[paper](https://arxiv.org/abs/2410.06703)]
+6. [2024/09/17] Eia: Environmental injection attack on generalist web agents for privacy leakage[[paper](https://arxiv.org/abs/2409.11295)]
+7. [2024/08/05] Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions[[paper](https://arxiv.org/abs/2408.02544)]
+8. [2024/07/12] Security Matrix for Multimodal Agents on Mobile Devices: A Systematic and Proof of Concept Study[[paper](https://arxiv.org/abs/2407.09295)]
+9. [2024/06/18] Adversarial Attacks on Multimodal Agents[[paper](https://arxiv.org/abs/2406.12814)]
+10. [2024/02/26] WIPI: A New Web Threat for LLM-Driven Web Agents[[paper](https://arxiv.org/abs/2402.16965)]
+11. [2023/08/03] From Prompt Injections to SQL Injection Attacks: How Protected is Your LLM-Integrated Web Application?[[paper](https://arxiv.org/abs/2308.01990)]
 
 ## Related Repositories
 
